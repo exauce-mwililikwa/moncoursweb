@@ -1,0 +1,13 @@
+body{
+    background-color: lime;
+}
+*{
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color: lime;
+}
+p>img{
+    float: right;
+}
